@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
 # 💫 About Me:
 🌱 I’m currently learning Fullstack Development , DSA <br><br>📫 Email Me 👉 ✉️ mr.saivardhan@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saivardhanjumbarath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.saivardhan@gmail.com) 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/mr_saivardhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_saivardhan" height="30" width="40" /></a>
