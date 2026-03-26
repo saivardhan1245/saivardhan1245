@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/mr_saivardhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_saivardhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mr_saivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_saivardhan" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/mr_saivardhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_saivardhan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mr_saivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_saivardhan" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/mr_saivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_saivardhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mr_saivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr_saivardhan" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/mr_saivardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr_saivardhan" height="30" width="40" /></a> -->
 </p>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
