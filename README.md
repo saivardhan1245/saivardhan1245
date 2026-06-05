@@ -1,5 +1,9 @@
 # 💫 Hi 👋, I'm Jumbarath Saivardhan
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-point_scorer.png" width="220" />
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-role_contributor.png" width="220" />
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-rising_star.png" width="220" />
+</p>
 <!--
 **saivardhan1245/saivardhan1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
