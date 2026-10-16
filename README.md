@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.holopin.io/@saivardhan1245#badges">
+    <img src="https://holopin.me/saivardhan1245" alt="Holopin Badges" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/saivardhanjumbarath">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
