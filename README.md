@@ -13,7 +13,17 @@
     <img src="https://holopin.me/saivardhan1245" alt="Holopin Badges" />
   </a>
 </p>
+<h2 align="center">🎃 Hacktoberfest 2026</h2>
 
+<p align="center">
+  <img src="hacktoberfest-2026-stickers (2).png"
+       alt="Hacktoberfest 2026 Sticker Book"
+       width="700" />
+</p>
+
+<p align="center">
+  🏆 Completionist++ | 20 of 28 stickers
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/saivardhanjumbarath">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
