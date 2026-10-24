@@ -28,10 +28,15 @@
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-point_scorer.png" height="180" alt="GSSoC Point Scorer" />
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-role_contributor.png" height="180" alt="GSSoC Contributor" />
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-rising_star.png" height="180" alt="GSSoC Rising Star" />
-   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/hacktoberfest-2026-stickers.png" height="180" alt="Hacktoberfest 2026 Sticker Book" />
   <a href="https://www.holopin.io/@saivardhan1245#badges">
-    <img src="https://holopin.me/saivardhan1245" height="180" alt="Holopin Badges" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/level-0-hack.png"
+    height="180"
+    alt="Hacktoberfest Level 0 Contributor — View Holopin Profile"
+  />
+</a>
+   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/hacktoberfest-2026-stickers.png" height="180" alt="Hacktoberfest 2026 Sticker Book" />
+ 
 
  
 </p>
