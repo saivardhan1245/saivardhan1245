@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Developer • Java • DSA • Open Source Contributor</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-point_scorer.png" width="180" />
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-role_contributor.png" width="180" />
   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-rising_star.png" width="180" />
@@ -23,6 +23,17 @@
 
 <p align="center">
   🏆 Completionist++ | 20 of 28 stickers
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-point_scorer.png" height="180" alt="GSSoC Point Scorer" />
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-role_contributor.png" height="180" alt="GSSoC Contributor" />
+  <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/gssoc-badge-rising_star.png" height="180" alt="GSSoC Rising Star" />
+   <img src="https://raw.githubusercontent.com/saivardhan1245/saivardhan1245/main/hacktoberfest-2026-stickers.png" height="180" alt="Hacktoberfest 2026 Sticker Book" />
+  <a href="https://www.holopin.io/@saivardhan1245#badges">
+    <img src="https://holopin.me/saivardhan1245" height="180" alt="Holopin Badges" />
+  </a>
+
+ 
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/saivardhanjumbarath">
